@@ -319,7 +319,7 @@ footer{
         border: none;
     }
     main{
-    width: 90%;
+    width: 85%;
     margin: 0 auto;
     background-color: #fff;
     }
@@ -330,7 +330,7 @@ footer{
 
 @media (min-width: 1024px){
     main{
-        width: 70%;
+        width: 60%;
     }
     table{
         width: 80%;
